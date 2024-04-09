@@ -3,10 +3,13 @@ from PyQt5.QtWidgets import (QWidget, QLabel, QTabWidget, QGridLayout, QTableWid
 from PyQt5.QtCore import QTimer
 
 
+<<<<<<< HEAD
 from addTest2 import  AddTest2
 from deleteTest2 import  DeleteTest2
 from updateTest2 import  UpdateTest2
 
+=======
+>>>>>>> origin/master
 from database.Show_database import ShowDatabase
 
 

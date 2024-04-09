@@ -44,4 +44,11 @@ class DeleteTables:
                 cursor.close()
                 self.connection.close()
 
+<<<<<<< HEAD
             return True
+=======
+            return True
+
+
+
+>>>>>>> origin/master
